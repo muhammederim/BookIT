@@ -1,0 +1,18 @@
+{
+    "signIn":{
+    "url":"https://cybertek-reservation-qa.herokuapp.com/sign-in",
+    "email":"efewtrell8c@craigslist.org",
+    "password":"jamesmay",
+    "titlePage":"cybertek-bnb",
+    "welcomeText1":"sign in",
+    "welcomeText2":"how you been?",
+    "emailLabel":"email",
+    "passwordLabel":"password"    
+    },
+    "map":{
+        "url":"https://cybertek-reservation-qa.herokuapp.com/map",
+        "welcomeText1":"sign in",
+        "welcomeText2":"how you been?" 
+    }
+    
+}
